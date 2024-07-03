@@ -1,7 +1,14 @@
-- 👋 Hi, I’m @Aniket
-- 😄 My Skills- java, OOPS, DSA, ReachJS, C programing
+Welcome to My GitHub Profile
 
-<!---
-Aniket-S8/Aniket-S8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 About Me
+Hi, I’m Aniket, a fresher with a passion for Web Development, Artificial intelegence and JAVA. I love solving problems and building projects that make a difference.
+
+🌱 Currently learning: ReactJS and Machine Learning
+
+🛠️ Technologies & Tools
+Here are some of the technologies and tools I work with:
+
+Languages: JavaScript, Java, C
+Frameworks: React
+Tools: Git
+Databases: MySQL,MongoDB
