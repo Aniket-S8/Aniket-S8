@@ -6,7 +6,7 @@ Hi, I’m Aniket, a fresher with a passion for Web Development, Artificial intel
 🌱 Currently learning: ReactJS and Machine Learning
 
 🛠️ Technologies & Tools
-Here are some of the technologies and tools I work with:
+Here are some of the technologies and tools I work with-
 
 Languages: JavaScript, Java, C
 Frameworks: React
