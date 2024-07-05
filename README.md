@@ -11,5 +11,5 @@ Here are some of the technologies and tools I work with:
 - **Languages**: JavaScript, Java, C  
 - **Frameworks**: React  
 - **Tools**: Git  
+- **Skills**: Data Structures, Object-oriented programming
 - **Databases**: MySQL, MongoDB
--**Other skills**: Data Structures, Object-oriented programming
