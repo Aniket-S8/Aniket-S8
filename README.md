@@ -8,8 +8,8 @@ Hi, I’m Aniket, a fresher with a passion for Web Development, Artificial Intel
 ## 🛠️ Technologies & Tools
 Here are some of the technologies and tools I work with:
 
-- **Languages**: JavaScript, Java, C  
+- **Languages**: Java, JavaScript, C  
 - **Frameworks**: ReactJs, TailwindCSS 
-- **Tools**: Git,
+- **Tools**: Node.js, Git
 - **Skills**: Data Structures, Object-oriented programming, Web Development
 - **Databases**: MySQL, MongoDB
