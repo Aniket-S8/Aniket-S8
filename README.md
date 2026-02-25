@@ -1,15 +1,15 @@
 # Welcome to My GitHub Profile
 
 ## 👋 About Me
-Hi, I’m Aniket, a fresher with a passion for Web Development, Artificial Intelligence, and Java. I love solving problems and building projects that make a difference.
+Hi, I’m Aniket, a fresher with a passion for Artificial Intelligence, Software Development and GenAI. I love solving problems and building projects that make a difference.
 
-🌱 **Currently learning**: Spring Boot
+🌱 **Currently learning**: GenAI, FastAPI
 
 ## 🛠️ Technologies & Tools
 Here are some of the technologies and tools I work with:
 
-- **Languages**: Java, JavaScript, C , SQL
-- **Frameworks**: Spring Boot, ReactJs, TailwindCSS 
+- **Languages**: Python, Java, JavaScript, SQL
+- **Frameworks**: ReactJs, TailwindCSS 
 - **Tools**: Node.js, Git
 - **Skills**: Data Structures, Object-oriented programming, Web Development
-- **Databases**: MySQL, MongoDB
+- **Databases**: MySQL, PostgreSQL
